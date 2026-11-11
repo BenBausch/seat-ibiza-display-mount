@@ -1,0 +1,22 @@
+{
+  "_comment": "Measured values override the defaults in ibiza_screen_holder.py (mm / degrees). Values below are still ESTIMATES - replace with your measurements, then re-run the script.",
+
+  "vent_spacing": 130.0,
+  "vent_id": 76.0,
+  "housing_od": 92.0,
+  "plug_depth": 18.0,
+  "dash_angle": 20.0,
+
+  "scr_w": 245.0,
+  "scr_h": 100.0,
+  "scr_t": 20.0,
+  "spine_w": 46.0,
+  "spine_d": 16.0,
+  "scr_bottom": -46.0,
+  "port_s0": 24.0,
+  "port_s1": 80.0,
+
+  "screen_tilt": 10.0,
+  "outlet_angle": 45.0,
+  "cable_side": "both"
+}

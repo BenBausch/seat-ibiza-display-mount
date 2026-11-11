@@ -1,0 +1,122 @@
+{
+  "params": {
+    "vent_spacing": 130.0,
+    "vent_id": 76.0,
+    "housing_od": 92.0,
+    "dash_angle": 20.0,
+    "plug_depth": 18.0,
+    "plug_clear": 0.6,
+    "plug_bump": 0.5,
+    "plug_wall": 2.0,
+    "scr_w": 245.0,
+    "scr_h": 100.0,
+    "scr_t": 20.0,
+    "spine_w": 46.0,
+    "spine_d": 16.0,
+    "cam_w": 44.0,
+    "cam_d": 30.0,
+    "scr_bottom": -46.0,
+    "port_s0": 24.0,
+    "port_s1": 80.0,
+    "screen_tilt": 10.0,
+    "outlet_angle": 45.0,
+    "wall": 3.0,
+    "t_back": 3.0,
+    "t_front": 3.0,
+    "air_gap": 16.0,
+    "t_flange": 4.0,
+    "side_margin": 2.0,
+    "lid_t": 3.0,
+    "vane_depth": 8.0,
+    "vane_slot": 4.5,
+    "vane_pitch": 7.0,
+    "ledge_t": 4.0,
+    "lip_h": 5.0,
+    "lip_t": 3.0,
+    "pad": 1.0,
+    "clamp_len": 20.0,
+    "clamp_gap": 1.0,
+    "cable_side": "both",
+    "cable_slot_w": 12.0,
+    "cable_slot_len": 36.0
+  },
+  "derived": {
+    "vx": [
+      -65.0,
+      65.0
+    ],
+    "W": 226.0,
+    "plug_od": 75.4,
+    "plug_id": 71.4,
+    "rc": 43.2,
+    "flange_r": 48.2,
+    "col_r": 4.6,
+    "z_b0": 4.0,
+    "z_b1": 7.0,
+    "Os_y": -46.0,
+    "Os_z": 26.0,
+    "s_top": 101.0,
+    "n_lip0": 21.5,
+    "n_lip1": 24.5,
+    "h_top": 64.80589440221554,
+    "h_rim": 61.80589440221554,
+    "Yb": -54.193611364888625,
+    "screws": [
+      [
+        -65.0,
+        43.2
+      ],
+      [
+        -102.41229744348774,
+        -21.600000000000005
+      ],
+      [
+        -27.587702556512262,
+        -21.60000000000002
+      ],
+      [
+        65.0,
+        43.2
+      ],
+      [
+        27.587702556512248,
+        -21.600000000000005
+      ],
+      [
+        102.41229744348774,
+        -21.60000000000002
+      ]
+    ],
+    "screw_len": 25,
+    "cb_z": 25.5,
+    "blk_w": 16.0,
+    "x_blk": 94.0,
+    "y_rim_front": 51.18112029790152,
+    "y_blk": 35.18112029790152,
+    "lid_screw_w": -9.725372594895608,
+    "lid_screw_x": 103.0,
+    "clamp_s1": 99.0,
+    "clamp_s0": 79.0,
+    "clamp_xin": 123.2,
+    "clamp_xo": 126.2,
+    "clamp_screws_s": [
+      84.0,
+      94.0
+    ],
+    "clamp_screw_n": -7.0,
+    "clamp_screw_len": 25,
+    "panels": [
+      [
+        28.0,
+        93.0
+      ],
+      [
+        -93.0,
+        -28.0
+      ]
+    ],
+    "cable_s0": 31.0,
+    "cable_s1": 67.0,
+    "n_slots": 4
+  }
+}
